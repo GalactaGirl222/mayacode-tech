@@ -13,7 +13,7 @@ header,nav {
     background: #ebebeb;
     text-align: center
 }
-article {
+article,section,p,h1,h2,h3{
     color: #ebebeb;
     background: #777;
     width: 480px;
@@ -36,6 +36,7 @@ footer {
     clear: both;
     position: relative;
     top: 15px;
+    text-align: center
 }
 .container {
     width: 495px;
