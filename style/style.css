@@ -32,19 +32,13 @@ section {
     width: 495px;
     float: left;
 }
-
-/* .footer {
-    /* bottom: 100px; */
     position: absolute;
     text-align: center;
     margin-bottom: 10%;
-    width: 90%;
-    /* margin: 240; */
-} */
-.container {
-    /* width: 495px; */
-    /* margin: 0 auto */
-}
+    width: 90%
+    {
+
+    
 .aside {
     float: right;
     width: 460px;
