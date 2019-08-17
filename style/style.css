@@ -14,10 +14,7 @@ header {
     text-align: center
 }
 
-nav {
-    background: #ebebeb;
-    text-align: center
-}
+nav
 article,section,p,h1,h2,h3{
     color: #ebebeb;
     background: #777;
@@ -32,19 +29,23 @@ section {
     width: 495px;
     float: left;
 }
+
+/* .footer {
+    /* bottom: 100px; */
     position: absolute;
     text-align: center;
     margin-bottom: 10%;
-    width: 90%
-    {
-
-    
+    width: 90%;
+    /* margin: 240; */
+} */
+.container {
+    /* width: 495px; */
+    /* margin: 0 auto */
+}
 .aside {
     float: right;
     width: 460px;
     height: 206px;
-    background-color: white;
-    text-align: center;
 } 
 footer {
     position:absolute;
